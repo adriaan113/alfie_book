@@ -14,16 +14,14 @@ export default {
   },
   data: function () {
   return {
-    img: {
-      bg:require('./assets/img/bg.jpeg')
-    }  
+  
   }
 },
 
 }
 </script>
 
-<style>
+<style lang="scss">
 
 body{
   margin: 0;
